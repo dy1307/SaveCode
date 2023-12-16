@@ -27,6 +27,7 @@ int main() {
             printf("Ten: %s, Hang san xuat: %s\n", dienThoaiArr[i].tenDienThoai, dienThoaiArr[i].hangSanXuat);
         }
     }
+    printf("tran duc duy");
 
     return 0;
 }
